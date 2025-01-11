@@ -1,0 +1,30 @@
+.NavLinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 6rem;
+}
+
+.NavLinks ul {
+    display: flex;
+    gap: 4rem;
+    font-family: 1.5rem;
+    align-items: center;
+}
+
+.loginBtn {
+    background-color: black;
+    padding: 0.7rem;
+    color: white;
+    border: 2px groove white;
+    border-radius: 1rem;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-white);
+}
