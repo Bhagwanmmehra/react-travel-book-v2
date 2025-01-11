@@ -4,6 +4,8 @@ function LogoBox() {
   return (
     <div>
       <Logo />
+
+      {/*  */}
     </div>
   );
 }
